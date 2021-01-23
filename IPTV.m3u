@@ -143,11 +143,11 @@ http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 http://111.63.117.13:6060/030000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV6.png" group-title="国内频道",CCTV–6
 http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8
-#EXTINF:-1 group-title="国内频道",CCTV–8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV8.png" group-title="国内频道",CCTV–8
 http://111.63.117.13:6060/030000001000/G_CCTV-8/G_CCTV-8.m3u8
-#EXTINF:-1 group-title="国内频道",CCTV-10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV10.png" group-title="国内频道",CCTV-10
 http://111.63.117.13:6060/030000001000/CCTV-10/CCTV-10.m3u8
-#EXTINF:-1 group-title="国内频道",CCTV-13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV13.png" group-title="国内频道",CCTV-13
 http://111.63.117.13:6060/030000001000/CCTV-13/CCTV_13.m3u8
 #EXTINF:-1 group-title="国内频道",江苏卫视
 http://111.63.117.13:6060/030000
