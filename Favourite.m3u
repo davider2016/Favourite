@@ -1,0 +1,135 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml" "https://i.mjh.nz/PlutoTV/us.xml"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="新闻频道",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="新闻频道",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 tvg-name="513 Al Jazeera" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="新闻频道",Aljazeera News
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bbcworld.png" group-title="新闻频道",BBC World News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV USA-US" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="新闻频道",Bloomberg 
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-name="CBSN 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cbsn-us.png" group-title="新闻频道",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VS1lw49.png" group-title="新闻频道",CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sP727kx.png" group-title="新闻频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="新闻频道",CNBC World
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501
+#EXTINF:-1 tvg-name="CNN-HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="新闻频道",CNN International
+http://218.202.220.2:5000/nn_live.ts?id=CNN
+#EXTINF:-1 tvg-name="CNN-HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="新闻频道",CNN US
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="新闻频道",CNN Selects
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=70dae538-3b60-40aa-a14a-504f073abcf6&clientModelNumber=na&deviceDNT=false&deviceId=70dae538-3b60-40aa-a14a-504f073abcf6&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=US&serverSideAds=true&sessionID=58fefe78-4853-11eb-ae86-0242ac110002&sid=58fefe78-4853-11eb-ae86-0242ac110002&userId=
+#EXTINF:-1 tvg-name="205 FNC" tvg-logo="https://i.imgur.com/xWVT3Dg.png" group-title="新闻频道",Cheddar News
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="新闻频道",Euronews
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="205 FNC" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-news-us.png" group-title="新闻频道",Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-news-us.png" group-title="新闻频道",Fox News Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png"  group-title="新闻频道",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XpZdSKH.gif" group-title="新闻频道",MSNBC 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
+#EXTINF:-1 tvg-name="NBC News Now" tvg-logo="http://images.pluto.tv/channels/56403d822d2719107d948cb9/featuredImage.jpg" group-title="新闻频道",NBC News
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/2216081/sp/221608100/thumbnail/entry_id/1_f19eeulz/version/100001/width/768/height/435"  group-title="新闻频道",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8#http://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="新闻频道",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-name="OAN Encore" tvg-logo="https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" group-title="新闻频道",OAN Encore
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=242&deviceId=5e7cf6c7b156d500078c5f44&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="新闻频道",RT News
+https://rt-news-gd.secure2.footprint.net/1103.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="新闻频道",RT UK
+https://rt-uk.secure.footprint.net/1106.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="新闻频道",RT US
+https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-news-icon-uk.png" group-title="新闻频道",Skynews
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-name="516 TRT World" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s105269_dark_360w_270h.png" group-title="新闻频道",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="501 HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="电影频道",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:-1 tvg-name="504 HBO West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="电影频道",HBO (West)
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:-1 tvg-name="515 Cinemax East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="电影频道",Cinemax (East)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+#EXTINF:-1 tvg-name="516 Cinemax West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="电影频道",Cinemax (West)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+#EXTINF:-1 tvg-name="545 Showtime East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="电影频道",Showtime (East)
+https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
+#EXTINF:-1 tvg-name="546 Showtime West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="电影频道",Showtime (West)
+https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
+#EXTINF:-1 tvg-name="526 Starz West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/500px-Starz_2016.svg.png" group-title="电影频道",STARZ (West)
+https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+#EXTINF:-1 tvg-name="525 Starz East HD" tvg-logo="https://www.pngkey.com/png/full/335-3358841_the-previous-logos-were-introduced-in-2005-as.png" group-title="电影频道",STARZ (East)
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
+#EXTINF:-1 tvg-name="560 EPIX Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="电影频道",Epix (East)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+#EXTINF:-1 tvg-name="560 EPIX Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="电影频道",Epix 2 (East)
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="电影频道",Movie Kingdom TV
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/IPTV/main/film.png" group-title="电影频道",Allsprk 1
+https://stream.allsprk.tv/live/9/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/IPTV/main/film.png" group-title="电影频道",Allsprk 2
+https://stream.allsprk.tv/live/4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/IPTV/main/film.png" group-title="电影频道",Allsprk 3
+https://stream.allsprk.tv/live/3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/IPTV/main/film.png" group-title="电影频道",Allsprk 4
+https://stream.allsprk.tv/live/8/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/IPTV/main/film.png" group-title="电影频道",Allsprk 5
+https://stream.allsprk.tv/live/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/IPTV/main/film.png" group-title="电影频道",Allsprk 6
+https://stream.allsprk.tv/live/7/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/IPTV/main/film.png" group-title="电影频道",Allsprk 7
+https://stream.allsprk.tv/live/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/IPTV/main/film.png" group-title="电影频道",Allsprk 8
+https://stream.allsprk.tv/live/5/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/IPTV/main/film.png" group-title="电影频道",Allsprk 9
+https://stream.allsprk.tv/live/6/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/IPTV/main/film.png" group-title="电影频道",Allsprk 10
+https://stream.allsprk.tv/live/0/index.m3u8
+#EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Absolute Reality
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC IFC Film Picks" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC IFC Film Picks
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC Presents" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Presents
+https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC Rush" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Rush
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Slightly off
+https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/a-and-e-us.png" group-title="人文频道",A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/animal-planet-us.png" group-title="人文频道",Animal Planet
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/crime-and-investigation-us.png" group-title="人文频道",Crime Investigation
+http://203.154.243.31:15001
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-2-us.png" group-title="人文频道",Discovery Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+#EXTINF:-1 tvg-id="Docurama" tvg-name="Docurama" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/64e1e4f2-5aa5-49d8-bd74-a692313d0473-small3x1_stirr_0120_epg_Docurama_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="人文频道",Docurama
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lk8azuc.png" group-title="人文频道",Fashion TV
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/history-channel-us.png" group-title="人文频道",History Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+#EXTINF:-1 tvg-id="nadia" tvg-name="Hope Channel" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="人文频道",Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+#EXTINF:-1 tvg-name="Hunt Channel" group-title="人文频道" tvg-logo="https://i.imgur.com/DkvWWbE.png",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/national-geographic-us.png" group-title="人文频道",National Geographic
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nat-geo-wild-us.png" group-title="人文频道",National Wild
+http://95.170.195.18:3058
+#EXTINF:-1 tvg-id="Outdoor America" tvg-name="Outdoor America" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/da15753d-c536-4b71-956f-265192b5f74e-small3x1_STIRR_Logo_0320_OutdoorAmerica_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="人文频道",Outdoor America
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/TvmeXdZ.png" group-title="人文频道",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="人文频道",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8#http://51.52.156.22:8888/http/012
