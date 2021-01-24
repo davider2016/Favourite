@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ABC News Australia" group-title="News",ABC News Australia 
-http://live-radio01.mediahubaustralia.com/PBW/mp3
 #EXTINF:-1 tvg-name="ABC News USA" group-title="News" tvg-logo="https://i.imgur.com/7sJLzKi.png",ABC News USA
 http://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/index_48_a-p.m3u8
 #EXTINF:-1 group-title="News",AL Jazeera
