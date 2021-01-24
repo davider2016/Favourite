@@ -169,3 +169,6 @@ http://111.63.117.13:6060/030000001000/G_HUBEI/G_HUBEI.m3u8
 http://111.63.117.13:6060/030000001000/G_HUNAN/G_HUNAN.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/sz.png" group-title="国内频道",深圳卫视
 http://111.63.117.13:6060/030000001000/G_SHENZHEN/G_SHENZHEN.m3u8
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="" group-title="港台",星空卫视
+rtmp://58.200.131.2:1935/
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
