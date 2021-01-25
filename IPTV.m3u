@@ -130,6 +130,11 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/national-geographic-us.png" group-title="人文频道",National Geographic
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:-1 tvg-id="NASATV" tvg-name="NASATV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/441fd841-4cd4-42d0-8471-98d55a05ad47-small3x1_STIRR_Logo_0320_NASA_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="人文频道",NASATV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nat-geo-wild-us.png" group-title="人文频道",National Wild
 http://95.170.195.18:3058
 #EXTINF:-1 tvg-id="Outdoor America" tvg-name="Outdoor America" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/da15753d-c536-4b71-956f-265192b5f74e-small3x1_STIRR_Logo_0320_OutdoorAmerica_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="人文频道",Outdoor America
