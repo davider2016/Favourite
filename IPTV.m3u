@@ -108,7 +108,7 @@ https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/a-and-e-us.png" group-title="人文频道",A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 http://45.4.85.130:8000/play/a0aa/index.m3u8
-#EXTINF:-1 tvg-name="21 ANIPL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/animal-planet-us.png" group-title="人文频道",Animal Planet
+#EXTINF:-1 tvg-name="282 Animal Planet" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/animal-planet-us.png" group-title="人文频道",Animal Planet
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/crime-and-investigation-us.png" group-title="人文频道",Crime Investigation
 http://203.154.243.31:15001
@@ -128,7 +128,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Jasmin%20TV.jpg" group-title="人文频道",Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/national-geographic-us.png" group-title="人文频道",National Geographic
+#EXTINF:-1 tvg-name="283 Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/national-geographic-us.png" group-title="人文频道",National Geographic
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 #EXTINF:-1 tvg-name="352 NASA TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/441fd841-4cd4-42d0-8471-98d55a05ad47-small3x1_STIRR_Logo_0320_NASA_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="人文频道",NASATV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
