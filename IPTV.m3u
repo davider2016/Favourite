@@ -7,7 +7,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bbcworld.png" group-title="新闻频道",BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV USA-US" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="新闻频道",Bloomberg 
+#EXTINF:-1 tvg-name="353 Bloomberg TV" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="新闻频道",Bloomberg 
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-name="CBSN 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cbsn-us.png" group-title="新闻频道",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
@@ -15,7 +15,7 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sP727kx.png" group-title="新闻频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="新闻频道",CNBC World
+#EXTINF:-1 tvg-name="357 CNBC World" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="新闻频道",CNBC World
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501
 #EXTINF:-1 tvg-name="CNN-HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="新闻频道",CNN International
 http://218.202.220.2:5000/nn_live.ts?id=CNN
