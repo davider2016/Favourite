@@ -710,38 +710,3 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decb
 #EXTINF:-1 tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Pluto TV",Yu-Gi-Oh
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=840&deviceId=5f4ec10ed9636f00089b8c89&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="https://dl.dropboxusercontent.com/s/5mo7qdqzh6kiowv/my%20cinema.jpg?dl=0",My Cinema
-http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg",ANIPLUS
-http://210.210.155.35/session/ec8b65d0-8ac1-11ea-b4aa-c81f66f89318/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg",ANIMAX
-http://210.210.155.35/session/1e32b920-8ac3-11ea-a16a-c81f66f89318/dr9445/h/h144/02.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg",CELESTIAL MOVIE
-http://210.210.155.35/session/5161f5da-8abf-11ea-8ff9-b82a72d63267/qwr9ew/s/s33/02.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg",KIX
-http://210.210.155.35/session/0d70c506-8ac2-11ea-b162-c81f66f89318/uq2663/h/h07/01.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT",MY CINEMA
-http://210.210.155.35/session/1482d1f4-8b5d-11ea-a11f-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg",BLUE ANT ENTERTAINMENT
-http://210.210.155.35/session/4f893468-8aff-11ea-b29b-b82a72d63267/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg",CINEMA WORLD
-http://210.210.155.35/session/b7f290cc-8b03-11ea-9e97-b82a72d63267/uq2663/h/h04/01.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg",AXN
-http://210.210.155.35/session/92f8302e-8b03-11ea-a16a-c81f66f89318/uq2663/h/h141/01.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg",BLUE ANT EXTREME
-http://210.210.155.35/session/3061ac06-8b03-11ea-a7a4-b82a72d63267/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg",HITS
-http://210.210.155.35/session/6a44e720-8b04-11ea-afc9-c81f66f89318/uq2663/h/h37/02.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg",TRILL
-http://210.210.155.35/session/abe709e2-8b04-11ea-a706-c81f66f89318/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg",K+
-http://210.210.155.35/session/068e3abe-8b05-11ea-929d-c81f66f89318/uq2663/h/h08/01.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg",ONE
-http://210.210.155.35/session/294810b6-8b05-11ea-b4aa-c81f66f89318/uq2663/h/h143/01.m3u8
-#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg",GEM
-http://210.210.155.35/session/53402f70-8b05-11ea-bc3a-b82a72d63267/uq2663/h/h19/01.m3u8
-
-
-
-
-
