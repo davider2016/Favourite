@@ -710,7 +710,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decb
 #EXTINF:-1 tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Pluto TV",Yu-Gi-Oh
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=840&deviceId=5f4ec10ed9636f00089b8c89&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 group-title="ZALCODE-MOVIES" tvg-logo="https://dl.dropboxusercontent.com/s/5mo7qdqzh6kiowv/my%20cinema.jpg?dl=0",My Cinema
+#EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="https://dl.dropboxusercontent.com/s/5mo7qdqzh6kiowv/my%20cinema.jpg?dl=0",My Cinema
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1 group-title="ZALCODE-ENT" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg",ANIPLUS
 http://210.210.155.35/session/ec8b65d0-8ac1-11ea-b4aa-c81f66f89318/dr9445/h/h02/01.m3u8
