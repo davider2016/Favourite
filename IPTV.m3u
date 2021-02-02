@@ -737,3 +737,5 @@ https://www.youtube.com/channel/UCGZgY9urf-stkr7cRUbQI1Q
 https://www.youtube.com/channel/UCNUS6e1M0eUIv1F88kxRJ-g
 #EXTINF:-1 group-title="Youtube精选",PBS Frontline
 https://www.youtube.com/user/PBSfrontline
+#EXTINF:-1 group-title="Youtube精选",PBS HBO
+https://hbogo-livecdn.fptplay.net/hbogo/hbo_1080p.stream/chunklist.m3u8
