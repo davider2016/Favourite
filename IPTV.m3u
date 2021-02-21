@@ -93,16 +93,6 @@ https://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="电影频道",Pop UK
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SPWYoyO.png" group-title="电影频道",Blue Ant Entertainment
-http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="电影频道",Cinema World
-http://210.210.155.35/uq2663/h/h04/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="电影频道",Hits
-http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="电影频道",天映频道
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="电影频道",Thrill
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/a-and-e-us.png" group-title="人文频道",A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 http://45.4.85.130:8000/play/a0aa/index.m3u8
