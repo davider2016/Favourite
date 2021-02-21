@@ -158,17 +158,17 @@ http://111.63.117.13:6060/030000001000/CCTV-13/CCTV_13.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/js.png" group-title="国内频道",江苏卫视
 http://39.130.215.222:6410/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/df.png" group-title="国内频道",东方卫视
-http://111.63.117.13:6060/030000001000/G_DONGFANG/G_DONGFANG.m3u8
+http://39.130.215.222:6410/gitv_live/DFWS-HD/DFWS-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/dn.png" group-title="国内频道",东南卫视
-http://111.63.117.13:6060/030000001000/DNWS/DNWS.m3u8
+http://39.130.215.222:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/jx.png" group-title="国内频道",江西卫视
-http://111.63.117.13:6060/030000001000/JXWS/JXWS.m3u8
+http://39.130.215.222:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/hubei.png" group-title="国内频道",湖北卫视
-http://111.63.117.13:6060/030000001000/G_HUBEI/G_HUBEI.m3u8
+http://39.130.215.222:6410/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/hunan.png" group-title="国内频道",湖南卫视
-http://111.63.117.13:6060/030000001000/G_HUNAN/G_HUNAN.m3u8
+http://39.130.215.222:6410/gitv_live/HNWS-HD/HNWS-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/sz.png" group-title="国内频道",深圳卫视
-http://111.63.117.13:6060/030000001000/G_SHENZHEN/G_SHENZHEN.m3u8
+http://39.130.215.222:6410/gitv_live/SZWS-HD/SZWS-HD.m3u8
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/shanghaijishi.png" group-title="国内频道",纪实人文
 http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 
