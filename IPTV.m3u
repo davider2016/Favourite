@@ -139,21 +139,21 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="人文频道",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8#http://51.52.156.22:8888/http/012
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV1.png" group-title="国内频道",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV1.png" group-title="国内频道",CCTV-1
 http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV3.png" group-title="国内频道",CCTV–3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV3.png" group-title="国内频道",CCTV–3
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV5.png" group-title="国内频道",CCTV–5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV5.png" group-title="国内频道",CCTV–5
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV5%2B.png" group-title="国内频道",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV5%2B.png" group-title="国内频道",CCTV-5+
 http://111.63.117.13:6060/030000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV6.png" group-title="国内频道",CCTV–6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV6.png" group-title="国内频道",CCTV–6
 http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV8.png" group-title="国内频道",CCTV–8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV8.png" group-title="国内频道",CCTV–8
 http://111.63.117.13:6060/030000001000/G_CCTV-8/G_CCTV-8.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV10.png" group-title="国内频道",CCTV-10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV10.png" group-title="国内频道",CCTV-10
 http://111.63.117.13:6060/030000001000/CCTV-10/CCTV-10.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV13.png" group-title="国内频道",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV13.png" group-title="国内频道",CCTV-13
 http://111.63.117.13:6060/030000001000/CCTV-13/CCTV_13.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/js.png" group-title="国内频道",江苏卫视
 http://39.130.215.222:6410/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
