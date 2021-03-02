@@ -29,6 +29,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 https://live.chdrstatic.com/cbn/primary/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/CSPAN.us.png" group-title="新闻频道",C-Span
 https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW NEWS HD" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/dw.jpg" group-title="新闻频道",DW NEWS
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="新闻频道",Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="205 FNC" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-news-us.png" group-title="新闻频道",Fox News
