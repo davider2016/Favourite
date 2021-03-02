@@ -27,6 +27,8 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=70dae538-3b60-40aa-a14a-504f073abcf6&clientModelNumber=na&deviceDNT=false&deviceId=70dae538-3b60-40aa-a14a-504f073abcf6&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=US&serverSideAds=true&sessionID=58fefe78-4853-11eb-ae86-0242ac110002&sid=58fefe78-4853-11eb-ae86-0242ac110002&userId=
 #EXTINF:-1 tvg-name="205 FNC" tvg-logo="https://i.imgur.com/xWVT3Dg.png" group-title="新闻频道",Cheddar News
 https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1 tvg-id="CSPAN-US" tvg-name="CSPAN-US" tvg-logo="https://i.imgur.com/xGBmzm3.png" group-title="USA",CSPAN-US
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="新闻频道",Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="205 FNC" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fox-news-us.png" group-title="新闻频道",Fox News
@@ -39,7 +41,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="http://images.pluto.tv/channels/56403d822d2719107d948cb9/featuredImage.jpg" group-title="新闻频道",NBC News
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1 tvg-logo="https://cfvod.kaltura.com/p/2216081/sp/221608100/thumbnail/entry_id/1_f19eeulz/version/100001/width/768/height/435"  group-title="新闻频道",Newsmax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0PC2YI.png"  group-title="新闻频道",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8#http://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="新闻频道",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
