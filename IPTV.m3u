@@ -5,7 +5,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 tvg-name="513 Al Jazeera" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="新闻频道",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCParliament.uk.png" group-title="新闻频道",BBC Parliament
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/bbc%20parliament.png" group-title="新闻频道",BBC Parliament
 http://51.52.156.24:8888/http/009
 #EXTINF:-1 tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bbcworld.png" group-title="新闻频道",BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
