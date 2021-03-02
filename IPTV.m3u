@@ -112,6 +112,8 @@ http://45.4.85.130:8000/play/a0aa/index.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
 #EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="人文频道",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCParliament.uk.png" group-title="人文频道",BBC Parliament
+http://51.52.156.24:8888/http/009
 #EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="人文频道",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/contv.png" group-title="人文频道",ConTV
