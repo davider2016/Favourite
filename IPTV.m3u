@@ -49,7 +49,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8#http://bcliv
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-name="OAN Encore" tvg-logo="https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" group-title="新闻频道",OAN Encore
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=242&deviceId=5e7cf6c7b156d500078c5f44&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="新闻频道",NHK World
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="新闻频道",Reuters TV
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="新闻频道",RT News
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
