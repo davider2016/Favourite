@@ -742,30 +742,32 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decb
 #EXTINF:-1 tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Pluto TV",Yu-Gi-Oh
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=840&deviceId=5f4ec10ed9636f00089b8c89&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTM3U
-#EXTINF:-1 group-title="Youtube直播",三立新闻
-https://www.youtube.com/watch?v=4ZVUmEUFwaY
-#EXTINF:-1 group-title="Youtube直播",TVBS新闻
-https://www.youtube.com/watch?v=A4FbB8UhNRs
-#EXTINF:-1 group-title="Youtube直播",东森新闻
-https://www.youtube.com/watch?v=63RmMXCd_bQ
-#EXTINF:-1 group-title="Youtube直播",东森财经
-https://www.youtube.com/watch?v=68lLQ7hkdzU
-#EXTINF:-1 group-title="Youtube直播",中天新闻
-https://www.youtube.com/watch?v=9pWXAEZ5NLs
-#EXTINF:-1 group-title="Youtube直播",中视新闻
-https://www.youtube.com/watch?v=lSZZ3YRsW1w
-#EXTINF:-1 group-title="Youtube直播",华视新闻
-https://www.youtube.com/watch?v=-pvROC_MdYM
-#EXTINF:-1 group-title="Youtube直播",PBS Newshour
-https://www.youtube.com/user/PBSNewsHour
-#EXTINF:-1 group-title="Youtube精选",中华国宝
-https://www.youtube.com/user/guobaodangan
-#EXTINF:-1 group-title="Youtube精选",CCTV电视剧
-https://www.youtube.com/channel/UC7Vl0YiY0rDlovqcCFN4yTA
-#EXTINF:-1 group-title="Youtube精选",经典热播剧场
-https://www.youtube.com/channel/UCGZgY9urf-stkr7cRUbQI1Q
-#EXTINF:-1 group-title="Youtube精选",中国近代史专题
-https://www.youtube.com/channel/UCNUS6e1M0eUIv1F88kxRJ-g
-#EXTINF:-1 group-title="Youtube精选",PBS Frontline
-https://www.youtube.com/user/PBSfrontline
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",周星驰
+http://kuqq.tk/00/huya.php?id=11342412
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",林正英
+http://kuqq.tk/00/huya.php?id=11342421
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",成龙
+http://kuqq.tk/00/huya.php?id=11342386
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",李连杰
+http://kuqq.tk/00/huya.php?id=11342390
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",吴京
+http://kuqq.tk/00/huya.php?id=11602045
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",刘德华
+http://kuqq.tk/00/huya.php?id=11342424
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",五福星
+http://kuqq.tk/00/huya.php?id=11282233
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",甄子丹
+http://kuqq.tk/00/huya.php?id=11352935
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",周润发
+http://kuqq.tk/00/huya.php?id=11342387
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",沈腾
+http://kuqq.tk/00/huya.php?id=11601968
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",洪金宝
+http://kuqq.tk/00/huya.php?id=11342427
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",徐峥
+http://kuqq.tk/00/huya.php?id=11602043
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",赌片
+http://kuqq.tk/00/huya.php?id=11342399
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",黑帮
+http://kuqq.tk/00/huya.php?id=11336719
