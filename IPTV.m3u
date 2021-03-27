@@ -1,3 +1,96 @@
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1
+http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV2
+http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV3
+http://39.134.39.39/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
+http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226151/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+
+http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV6
+http://39.134.39.39/PLTV/88888888/224/3221226148/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV7
+http://39.134.39.39/PLTV/88888888/224/3221226255/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV8
+http://39.134.39.39/PLTV/88888888/224/3221226150/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV9
+http://39.134.39.39/PLTV/88888888/224/3221226259/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV10
+http://39.134.39.39/PLTV/88888888/224/3221226164/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226228/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11
+http://39.134.39.39/PLTV/88888888/224/3221226261/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV12
+http://39.134.39.39/PLTV/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV14
+http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226232/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV15
+http://39.134.39.39/PLTV/88888888/224/3221226234/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视频道",东南卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226309/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226155/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226299/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226270/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视频道",天津卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226191/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226303/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226205/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226311/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视频道",山东卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226162/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226297/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226293/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226264/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226207/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226305/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226144/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226266/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",海南卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226159/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226295/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226268/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视频道",甘肃卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视频道",贵州卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226276/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视频道
+http://39.134.39.39/PLTV/88888888/224/3221226209/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226278/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视频道",重庆卫视
+http://39.134.39.39/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视频道",黑龙江卫视
+http://39.134.39.39/PLTV/88888888/224/3221226142/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226272/index.m3u8
+
+
+
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml" 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="新闻频道",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -740,3 +833,4 @@ http://kuqq.tk/00/huya.php?id=11602043
 http://kuqq.tk/00/huya.php?id=11342399
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",黑帮
 http://kuqq.tk/00/huya.php?id=11336719
+
