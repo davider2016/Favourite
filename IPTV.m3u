@@ -173,40 +173,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV (US)" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="人文频道",Wildlife TV
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV1.png" group-title="国内频道",CCTV-1
-http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV3.png" group-title="国内频道",CCTV–3
-http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV5.png" group-title="国内频道",CCTV–5
-http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV5%2B.png" group-title="国内频道",CCTV-5+
-http://111.63.117.13:6060/030000
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV6.png" group-title="国内频道",CCTV–6
-http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV8.png" group-title="国内频道",CCTV–8
-http://111.63.117.13:6060/030000001000/G_CCTV-8/G_CCTV-8.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV10.png" group-title="国内频道",CCTV-10
-http://111.63.117.13:6060/030000001000/CCTV-10/CCTV-10.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/CCTV13.png" group-title="国内频道",CCTV-13
-http://111.63.117.13:6060/030000001000/CCTV-13/CCTV_13.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/js.png" group-title="国内频道",江苏卫视
-http://39.130.215.222:6410/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/df.png" group-title="国内频道",东方卫视
-http://39.130.215.222:6410/gitv_live/DFWS-HD/DFWS-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/dn.png" group-title="国内频道",东南卫视
-http://39.130.215.222:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/jx.png" group-title="国内频道",江西卫视
-http://39.130.215.222:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/hubei.png" group-title="国内频道",湖北卫视
-http://39.130.215.222:6410/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/hunan.png" group-title="国内频道",湖南卫视
-http://39.130.215.222:6410/gitv_live/HNWS-HD/HNWS-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/sz.png" group-title="国内频道",深圳卫视
-http://39.130.215.222:6410/gitv_live/SZWS-HD/SZWS-HD.m3u8
-#EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/shanghaijishi.png" group-title="国内频道",纪实人文
-http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/shanghaijishi.png" group-title="国内频道",测试频道
-rtsp://125.88.53.80:554/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EUwOl-Gl8Z1MFFJlY1q_RCg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000152%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706940
+
 
 #EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Pluto TV",70s Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
