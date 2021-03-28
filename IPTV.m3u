@@ -7,7 +7,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
 http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226151/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV5
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+
 http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
