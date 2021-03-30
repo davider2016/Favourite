@@ -195,6 +195,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
 #EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="人文频道",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="CIBN" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/Classical%20Music.png" group-title="人文频道",古典音乐
+http://v.iam7.cn/iptv/cibn.php?code=78
 #EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="人文频道",Classic Arts Showcase
 https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 #EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/contv.png" group-title="人文频道",ConTV
@@ -213,6 +215,8 @@ https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nbc-golf-channel-us.png" group-title="人文频道",Golf Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/%E5%9B%BD%E5%AE%B6%E5%A4%A7%E5%89%A7%E9%99%A2.jpg" group-title="人文频道",国家大剧院
+http://v.iam7.cn/iptv/cibn.php?code=128
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/hdfashion.jpg" group-title="人文频道",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/history-channel-us.png" group-title="人文频道",History Channel
@@ -246,6 +250,8 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8#http://51.52.156.22:8888/http/012
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Pluto TV History" tvg-logo="http://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="人文频道",Pluto TV History
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV (US)" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A.jpg" group-title="人文频道",莎士比亚
+http://v.iam7.cn/iptv/cibn.php?code=68
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="人文频道",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV (US)" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="人文频道",Wildlife TV
