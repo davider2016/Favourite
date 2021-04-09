@@ -76,7 +76,7 @@ http://39.134.198.9:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-b
 
 
 
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml" 
+#EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="新闻频道",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="新闻频道",ABC News Australia
