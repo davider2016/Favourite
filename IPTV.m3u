@@ -277,6 +277,8 @@ http://livetv.dnsfor.me/channel.10.m3u8
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳频道",壹新闻
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 group-title="港台频道" tvg-id="YZM.TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" ,原住民电视
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 
 
 
