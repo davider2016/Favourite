@@ -268,6 +268,8 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
 http://61.238.6.49:8001/bysid/85
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳频道",无线财经资讯台
 http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳频道",有线财经资讯台
+http://livetv.dnsfor.me:80/channel.6.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳频道",无线新闻台
 http://61.238.6.49:8001/bysid/83
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳频道",无线新闻台
@@ -276,10 +278,12 @@ http://96.45.185.192/tv.php?vid=wxxw
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳频道",无线新闻台
 http://tv.sason.xyz/proxy/tvb.php?id=xw
+#EXTINF:-1 tvg-id="6067" tvg-name="民视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳频道",民视新闻
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳频道",壹新闻
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳频道",有线财经资讯台
-http://livetv.dnsfor.me:80/channel.6.m3u8
+
+
 
 
 
