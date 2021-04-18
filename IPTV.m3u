@@ -509,3 +509,17 @@ http://kuqq.tk/00/huya.php?id=19810875
 http://kuqq.tk/00/huya.php?id=15556391
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",春寒一夜
 http://kuqq.tk/00/huya.php?id=20702189
+
+
+#EXTINF:-1 group-title="台灣頻道" tvg-id="MSW.TW" tvg-name="民視HD" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" ,民視HD
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 group-title="台灣頻道" tvg-id="MS1.TW" tvg-name="民視第一台HD" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" ,民視第一台HD
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 group-title="台灣頻道" tvg-id="MST.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" ,民視台灣台HD
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 group-title="台灣頻道" tvg-id="MST.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" ,民視影劇台
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視綜藝台" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png" ,民視綜藝台
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視旅遊台" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" ,民視旅遊台
+http://seb.sason.top/ptv/ftv.php?id=ly
