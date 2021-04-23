@@ -167,23 +167,11 @@ https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="电影频道", AXN
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" ,HBO
-http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影频道", HBO (Asia)
-http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+http://bos.00387.info:8080/HBO/index.m3u8?token=test
 #EXTINF:-1  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="电影频道", 天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" ,HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" ,HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" ,HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-id="Red.Asia" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" ,Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/kix.png" group-title="电影频道",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/lifetime-us.png" group-title="电影频道",Lifetime Movie
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
 #EXTINF:-1 tvg-id="Prive Tv HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Prive.jpg" group-title="电影频道",Prive Movies
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/a-and-e-us.png" group-title="人文频道",A&E
