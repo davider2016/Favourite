@@ -158,6 +158,10 @@ https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_1792546
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="电影频道",香港电影
 http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF_2000.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MOVIES",斗鱼电影1
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MOVIES",斗鱼电影2
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/329667rnoJ0R33Eh_4000p.xs
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Absolute Reality
