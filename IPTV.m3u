@@ -160,6 +160,8 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF_2000.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Prive Tv HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Prive.jpg" group-title="电影频道",Prive Movies
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Absolute Reality
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC IFC Film Picks" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC IFC Film Picks
@@ -173,11 +175,10 @@ https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="电影频道", AXN
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" ,HBO
-http://bos.00387.info:8080/HBO/index.m3u8?token=test
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/kix.png" group-title="电影频道",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
-#EXTINF:-1 tvg-id="Prive Tv HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Prive.jpg" group-title="电影频道",Prive Movies
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="人文频道",纪实人文
 http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
