@@ -182,10 +182,6 @@ https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
 https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Slightly off
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="电影频道", AXN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" ,HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/kix.png" group-title="电影频道",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 
