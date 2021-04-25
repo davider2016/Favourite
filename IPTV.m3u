@@ -277,14 +277,14 @@ https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台频道",J2
-http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台频道",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港台频道",翡翠台
 http://hls.globaliptv.ml/tvbjade.php
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台频道",明珠台
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台频道",J2
+http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="127" tvg-name="阳光卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="港台频道",阳光卫视
 https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/startv.jpg" group-title="港台频道",星空卫视
