@@ -184,7 +184,12 @@ https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/kix.png" group-title="电影频道",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
-
+#EXTINF:-1 tvg-logo="https://chargerbulletin.com/wp-content/uploads/2020/05/e9b985c80c0a0c04b698feed80e5c8f7.png" group-title="电影频道", HBO(mly) 
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://chargerbulletin.com/wp-content/uploads/2020/05/e9b985c80c0a0c04b698feed80e5c8f7.png" group-title="电影频道", HBO Hits(mly)
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://chargerbulletin.com/wp-content/uploads/2020/05/e9b985c80c0a0c04b698feed80e5c8f7.png" group-title="电影频道", HBO Signature(Mly)
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="人文频道",纪实人文
 http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
